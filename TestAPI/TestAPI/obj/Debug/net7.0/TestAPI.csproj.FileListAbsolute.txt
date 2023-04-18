@@ -1,0 +1,15 @@
+C:\Users\ICTS22-24.404\source\repos\TestAPI\TestAPI\bin\Debug\net7.0\TestAPI.exe
+C:\Users\ICTS22-24.404\source\repos\TestAPI\TestAPI\bin\Debug\net7.0\TestAPI.deps.json
+C:\Users\ICTS22-24.404\source\repos\TestAPI\TestAPI\bin\Debug\net7.0\TestAPI.runtimeconfig.json
+C:\Users\ICTS22-24.404\source\repos\TestAPI\TestAPI\bin\Debug\net7.0\TestAPI.dll
+C:\Users\ICTS22-24.404\source\repos\TestAPI\TestAPI\bin\Debug\net7.0\TestAPI.pdb
+C:\Users\ICTS22-24.404\source\repos\TestAPI\TestAPI\obj\Debug\net7.0\TestAPI.csproj.AssemblyReference.cache
+C:\Users\ICTS22-24.404\source\repos\TestAPI\TestAPI\obj\Debug\net7.0\TestAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS22-24.404\source\repos\TestAPI\TestAPI\obj\Debug\net7.0\TestAPI.AssemblyInfoInputs.cache
+C:\Users\ICTS22-24.404\source\repos\TestAPI\TestAPI\obj\Debug\net7.0\TestAPI.AssemblyInfo.cs
+C:\Users\ICTS22-24.404\source\repos\TestAPI\TestAPI\obj\Debug\net7.0\TestAPI.csproj.CoreCompileInputs.cache
+C:\Users\ICTS22-24.404\source\repos\TestAPI\TestAPI\obj\Debug\net7.0\TestAPI.dll
+C:\Users\ICTS22-24.404\source\repos\TestAPI\TestAPI\obj\Debug\net7.0\refint\TestAPI.dll
+C:\Users\ICTS22-24.404\source\repos\TestAPI\TestAPI\obj\Debug\net7.0\TestAPI.pdb
+C:\Users\ICTS22-24.404\source\repos\TestAPI\TestAPI\obj\Debug\net7.0\TestAPI.genruntimeconfig.cache
+C:\Users\ICTS22-24.404\source\repos\TestAPI\TestAPI\obj\Debug\net7.0\ref\TestAPI.dll
